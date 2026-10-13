@@ -1,0 +1,16 @@
+# MNIST (downloaded automatically)
+data/
+
+# Generated images
+samples/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
